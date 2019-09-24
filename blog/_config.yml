@@ -4,7 +4,7 @@
 
 # Site
 title: MAT-lab
-subtitle:
+subtitle: MAT-lab
 description:
 keywords:
 author: MAT
@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://mat.csust.xyz
+url: https://mat.csust.xyz
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
